@@ -26,7 +26,7 @@ A summary of the cloud guardrails to be implemented in the initial phase are pro
 | 07 | [Perform device hardening](EN/07_Perform_Device_Hardening.md) |
 | 08 | [Validate settings](EN/08_Validate_Settings.md) |
 
-**The detailed implementation guidance on how to deploy the guardrails is available [here](https://github.com/claudianavarrofragoso/cloud-guardrails-google-workspace-cis/blob/main/Google%20Workspace%20Guardrails%20-%20CIS%20Benchmarks.xlsx). This checklist is aligned with the CIS Benchmarks. Please note that this is a living document and subject to change as new services and features are made available.**
+**The detailed implementation guidance on how to deploy the guardrails is available [here](https://https://github.com/googlestaging/workspace-guardrails-ps-ca/blob/main/Google%20Workspace%20Guardrails%20-%20CIS%20Benchmarks.xlsx). This checklist is aligned with the CIS Benchmarks. Please note that this is a living document and subject to change as new services and features are made available.**
 
 Google Workspace provides GC departments with actionable insights and alerts, as well as security recommendations to triage and act against threats through the [Security Center](https://workspace.google.com/products/admin/security-center/) and [Alert Center](https://workspace.google.com/products/admin/alert-center/). These tools also provide a single and comprehensive way to view your security effectiveness and security alerts.
 
@@ -71,7 +71,7 @@ Un résumé des mesures de sécurité d’informatique en nuage à mettre en œu
 | 07 | [Exécuter le renforcement des appareils](FR/07_Exécuter-le-renforcement-des-appareils.md) |
 | 08 | [Valider les paramètres](FR/08_Valider-les-paramètres.md) |
 
-**Les conseils de mise en œuvre détaillés sur la façon de déployer les mesures de sécurité sont disponibles [ici](https://github.com/claudianavarrofragoso/cloud-guardrails-google-workspace-cis/blob/main/Google%20Workspace%20Guardrails%20-%20CIS%20Benchmarks.xlsx). Cette liste de contrôle est alignée sur les Benchmarks CIS. Veuillez noter qu'il s'agit d'un document évolutif et susceptible d'être modifié à mesure que de nouveaux services et fonctionnalités sont mis à disposition.**
+**Les conseils de mise en œuvre détaillés sur la façon de déployer les mesures de sécurité sont disponibles [ici](https://https://github.com/googlestaging/workspace-guardrails-ps-ca/blob/main/Google%20Workspace%20Guardrails%20-%20CIS%20Benchmarks.xlsx). Cette liste de contrôle est alignée sur les Benchmarks CIS. Veuillez noter qu'il s'agit d'un document évolutif et susceptible d'être modifié à mesure que de nouveaux services et fonctionnalités sont mis à disposition.**
 
 Google Workspace fournit aux départements du GC des informations et des alertes exploitables, ainsi que des recommandations de sécurité pour trier et agir contre les menaces via le [Centre de Sécurité](https://workspace.google.com/products/admin/security-center/) et le [Centre d'alerte](https://workspace.google.com/products/admin/alert-center/). Ces outils offrent également un moyen unique et complet d'afficher l'efficacité de votre sécurité et les alertes de sécurité.
 
