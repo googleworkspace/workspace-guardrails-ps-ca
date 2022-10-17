@@ -33,7 +33,7 @@ Guidelines](https://opensource.google/conduct/).
 
 ______________________
 
-## Comment contribuer
+# Comment contribuer
 
 Nous serions ravis d'accepter vos correctifs et vos contributions à ce projet. Il y a juste quelques petites directives que vous devez suivre.
 
