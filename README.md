@@ -3,7 +3,7 @@ Recommended configuration guidance for Google Workspace / Conseils de configurat
 
 ([Français](#mesures-de-sécurité-dinformatique-en-nuage-du-gc-pour-google-workspace))
 
-This repository details the guardrails required for Google Workspace to be deployed within the Canadian Public Sector. The target audience of this documentation is departments and agencies looking to deploy Google Workspace as a productivity and collaboration solution.
+This repository details the recommended guardrails for Google Workspace to be deployed within the Canadian Public Sector. The target audience of this documentation is departments and agencies looking to deploy Google Workspace as a productivity and collaboration solution.
 
 ## Purpose
 
@@ -48,7 +48,7 @@ ______________________
 
 ([English](#gc-cloud-guardrails-for-google-workspace))
 
-Ce projet détaille les mesures de sécurité requises pour que Google Workspace soit déployé au sein du Secteur Public du Canada. Les utilisateurs de cette documentation seront les ministères et les agences qui cherchent à déployer Google Workspace en tant que solution de productivité et de collaboration.
+Ce projet détaille les mesures de sécurité recommandés pour que Google Workspace soit déployé au sein du Secteur Public du Canada. Les utilisateurs de cette documentation seront les ministères et les agences qui cherchent à déployer Google Workspace en tant que solution de productivité et de collaboration.
 
 ## Objectif
 
