@@ -43,6 +43,10 @@ Departments should engage with their IT Security Risk Management teams to obtain
 
 See [How to Contribute](Contributing.md)
 
+### Disclaimer
+
+This is not an officially supported Google product.
+
 ______________________
 # Mesures de sécurité d’informatique pour Google Workspace
 
@@ -87,3 +91,8 @@ Les ministères devraient collaborer avec leurs équipes de gestion des risques 
 ### Comment contribuer
 
 Voir [Comme contribuer](Contributing.md)
+
+### Clause de non-responsabilité
+
+Ce n'est pas un produit officiellement pris en charge par Google.
+
