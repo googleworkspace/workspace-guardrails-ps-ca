@@ -9,7 +9,7 @@ This repository details the recommended guardrails for Google Workspace to be de
 
 The purpose of these guardrails is to ensure that departments and agencies are implementing a baseline set of security controls for their Google Workspace environment.
 
-**Note: these guidelines are meant to be for unclassified data within the Government of Canada.**
+**Note: these guidelines are meant to be for unclassified data.**
 
 ## Initial Guardrails
 
@@ -58,7 +58,7 @@ Ce projet détaille les mesures de sécurité recommandés pour que Google Works
 
 L'objectif de ces mesures de sécurité est de garantir que les ministères et les agences mettent en œuvre un ensemble de contrôles de sécurité de base pour leur environnement Google Workspace.
 
-**Remarque : ces mesures de sécurité sont destinées aux données non classifiées au sein du gouvernement du Canada.**
+**Remarque : ces mesures de sécurité sont destinées aux données non classifiées.**
 
 ## Mesures de sécurité initiales
 
