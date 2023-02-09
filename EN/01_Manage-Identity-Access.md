@@ -44,7 +44,7 @@ If using a third-party identity provider consider the following best practices f
 * [ ] Determine access restrictions and configuration requirements for GC-issued endpoint devices, including those of non-privileged and privileged users, and configure access restrictions accordingly
 * [ ] Ensure that Google session control is configured
 
-If using Azure Active Directory/O365:
+If using Azure Active Directory:
 * [ ] Prevent the use of Legacy Authentication Protocols.
 * [ ] Consider enabling Identity Protection (additional licensing required)
 * [ ] Consider controlling administrative tasks with privileged access management (additional licensing required)
