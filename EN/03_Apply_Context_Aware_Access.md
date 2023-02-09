@@ -9,7 +9,7 @@ Using Context-Aware Access, you can create granular access control policies to a
 
 ## Key Considerations
 
-* [ ] Ensure that users understand their responsibilities when using personal devices to access the data and services and the risks of sharing business data with unauthorised users.
+* [ ] Ensure that users understand their responsibilities when using personal devices to access the data and services and the risks of sharing business data with unauthorized users.
 * [ ] Establish [Context-Aware access levels](https://support.google.com/a/answer/9262032?hl=en&ref_topic=9262521) that combine conditions and values that define a user or device context. Access levels define the context within which users can access apps based on conditions such as:
   * IP subnet,
   * geographic location,
@@ -25,7 +25,7 @@ Using Context-Aware Access, you can create granular access control policies to a
   * requiring GC-managed devices for specific applications with consideration of the categorization of the data.
 * [ ] Create access levels to the Admin console.
       Avoid a lockout and be sure that at least one admin meets [criteria for access](https://support.google.com/a/answer/10759654).
-* [ ] Implement device-based acces policies and compliance status to either allow or block access to apps and services.
+* [ ] Implement device-based access policies and compliance status to either allow or block access to apps and services.
 * [ ] Use the security investigation tool to monitor and run searches related to [Context-Aware Access log events](https://support.google.com/a/answer/9394107?hl=en&ref_topic=9262521), and take action based on the results. 
 
 ## Additional Considerations
@@ -34,7 +34,7 @@ Using Context-Aware Access, you can create granular access control policies to a
 * [ ] Consider applying [Context-Aware access with groups](https://support.google.com/a/answer/9668676).
 * [ ] Consider applying Context-Aware access levels in [Advanced Mode](https://support.google.com/a/answer/11368990?hl=en&ref_topic=9262521).
 * [ ] Ensure access to support in the event of a lockout. If required, follow the steps to [Give users access to the Customer Care Portal](https://support.google.com/a/answer/10759654?hl=en#:~:text=Option%201%3A%20Assign%20the%20Support%20privilege%20to%20an%20existing%20role&text=Click%20the%20role%20that%20you,to%20the%20Customer%20Care%20Portal.).
-* [ ] For device-based acces:
+* [ ] For device-based access:
   * Consider enabling [advanced mobile management](https://support.google.com/a/answer/7396025?hl=en&ref_topic=1734198) to have better control over access to your organization's data.
   * Consider implementing [Data Loss Prevention](https://support.google.com/a/topic/7556687) policies to protect sensitive data and control the apps that can access Google Workspace data.
   * Require additional proof of identity when users sign in to their Google Account with 2-Step Verification (2SV). 
@@ -44,7 +44,7 @@ Using Context-Aware Access, you can create granular access control policies to a
 
 ## Validation
 
-* [ ] Validate that context-aware access levels are in place and meet security requirements.
+* [ ] Validate that Context-Aware access levels are in place and meet security requirements.
 * [ ] Validate that the access levels established allow for monitoring and preventing risky sign-ins.
 
 ## References
