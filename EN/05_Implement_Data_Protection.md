@@ -21,6 +21,7 @@ Safeguard information and assets hosted in cloud, from unauthorized access, use,
 ## Additional Considerations
 
 * [ ] Consider using [Client-Side Encryption](https://support.google.com/a/answer/10741897?hl=en) to use your own encryption keys to encrypt your organization's data.
+* [ ] Consider deploying [BeyondCorp Enterprise](https://support.google.com/a/answer/10104463) for threat and data protection for Chrome users.
 * [ ] Consider implementing [Advanced Gmail security](https://support.google.com/a/topic/2683828?hl=en&ref_topic=2683865).
 * [ ] Consider enabling [data insights report](https://support.google.com/a/answer/10324934?hl=en&ref_topic=9646660) to receive data protection rule recommendations.
 * [ ] Consider [appliying automated classification with DLP rules](https://support.google.com/a/answer/9843931?hl=en&ref_topic=9646660).
