@@ -27,7 +27,7 @@ If using a third-party identity provider consider the following best practices f
 * [ ] Implement a mechanism for uniquely identifying and authenticating organizational users, non-organizational users (if applicable), and processes (for example, username and password).
 * [ ] Require 2-Step Verification for users.
 * [ ] Ensure login challenges have been set up for suspicious login attempts.
-* [ ] Enforce security keys, at least for admins and other high-value accounts, using a security key or other physical authentication device.
+* [ ] Enforce security keys or other physical authentication device, at least for admins and other high-value accounts.
 * [ ] Enforce password policy in accordance with [GC Password Guidance](https://www.canada.ca/en/government/system/digital-government/password-guidance.html).
 * [ ] Implement role-based access and use roles with least privileges where possible (e.g. use non-global administrative roles).
 * [ ] Use dedicated accounts to perform Administrative Tasks.
