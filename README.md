@@ -1,4 +1,4 @@
-# Google Workspace Guardrails
+# Google Workspace security guidance
 Recommended configuration guidance for Google Workspace / Conseils de configuration recommandés pour Google Workspace
 
 ([Français](#mesures-de-sécurité-dinformatique-en-nuage-du-gc-pour-google-workspace))
@@ -48,7 +48,7 @@ See [How to Contribute](Contributing.md)
 This is not an officially supported Google product.
 
 ______________________
-# Mesures de sécurité d’informatique pour Google Workspace
+# Conseils de sécurité pour Google Workspace
 
 ([English](#gc-cloud-guardrails-for-google-workspace))
 
