@@ -12,8 +12,8 @@ Safeguard information and assets hosted in cloud, from unauthorized access, use,
 * [ ] Ensure data in transit is encrypted by default (e.g. TLS v1.2, etc.).
 * [ ] Leverage encryption mechanisms to protect the confidentiality and integrity of data hosted in the cloud service.
 * [ ] Use CSE-approved cryptographic algorithms and protocols, in accordance with [40.111](https://cyber.gc.ca/en/guidance/cryptographic-algorithms-unclassified-protected-and-protected-b-information-itsp40111) and [40.062](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.40.062-eng.pdf).
-* [ ] Enable Google Workspace DLP policies for gmail, Drive and Chat content to be scanned for specific types of data, such as Social Insurance Numbers, credit card numbers, passwords and security markings.
-* [ ] Apply clasification labels to Drive files based on detection of sensitive context using DLP rules.
+* [ ] Enable Google Workspace DLP policies for Gmail, Drive and Chat content to be scanned for specific types of data, such as Social Insurance Numbers, credit card numbers, passwords and security markings.
+* [ ] Apply classification labels to Drive files based on detection of sensitive context using DLP rules.
 * [ ] Follow data protection considerations for each service as decribed in [Perfom Service Hardening](/EN/06_Perform_Service_Hardening.md).
 * [ ] For mobile devices, review the list of recommendations in the [Device management security checklist](https://support.google.com/a/answer/7422256).
 * [ ] Use [Vault](https://support.google.com/a/answer/2462365?hl=en) to perform information governance and eDiscovery tasks.
@@ -21,7 +21,7 @@ Safeguard information and assets hosted in cloud, from unauthorized access, use,
 ## Additional Considerations
 
 * [ ] Consider using [Client-Side Encryption](https://support.google.com/a/answer/10741897?hl=en) to use your own encryption keys to encrypt your organization's data.
-* [ ] Consider implementing [Advanced gmail security](https://support.google.com/a/topic/2683828?hl=en&ref_topic=2683865).
+* [ ] Consider implementing [Advanced Gmail security](https://support.google.com/a/topic/2683828?hl=en&ref_topic=2683865).
 * [ ] Consider enabling [data insights report](https://support.google.com/a/answer/10324934?hl=en&ref_topic=9646660) to receive data protection rule recommendations.
 * [ ] Consider [appliying automated classification with DLP rules](https://support.google.com/a/answer/9843931?hl=en&ref_topic=9646660).
 * [ ] Control document sharing by domains with allow list or deny list.
