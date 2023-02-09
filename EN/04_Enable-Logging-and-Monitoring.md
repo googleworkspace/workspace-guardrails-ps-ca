@@ -9,7 +9,7 @@ Continuously monitor system events and performance and include a security audit 
 
 ### Logging
 
-* [ ] Ensure that only administrators have access to the [security investigation tool](https://support.google.com/a/answer/7575955).
+* [ ] Ensure that only administrators have access to the [Security Investigation tool](https://support.google.com/a/answer/7575955).
 * [ ] Leverage the Admin audit log to review a history of every task performed in the Google Admin console: which admin performed the task, the date, and the IP address from which the admin signed in.
 * [ ] Ensure you [create and manage activity rules](https://support.google.com/a/answer/9275024?hl=en) to help prevent, detect, and remediate security issues more quickly and efficiently.
 * [ ] Ensure you [create and manage reporting rules](https://support.google.com/a/answer/9908423?hl=en) to set up alerts based on log event data.
@@ -43,8 +43,8 @@ The security center provides advanced security information and analytics, and ad
 
 * [ ] Consider the use of a central logging solution whenever and wherever possible. Capabilities that automate event and behaviour analysis, and offer real-time alerting can help to identify possible security threats and incidents.
 * [ ] Consider the [export of Google Workspace logs](https://support.google.com/a/answer/9320190) and usage reports to Google Cloud Platform services.
-* [ ] Perform Admin auditing for the security center.
-      Many security center tasks are recorded through the Admin log event data source in the security investigation tool. This log data enables you to track the history of tasks performed in your Google Admin console, including which administrator performed the tasks. 
+* [ ] Perform Admin auditing for the Security Center.
+      Many Security Center tasks are recorded through the Admin log event data source in the Security Investigation tool. This log data enables you to track the history of tasks performed in your Google Admin console, including which administrator performed the tasks. 
 
 ## Validation
 
