@@ -92,7 +92,7 @@ Implementation guidance is provided in the [Security checklist](https://support.
 ## Additional Considerations
 
 * [ ] Consider using [Advanced Gmail security](https://support.google.com/a/topic/2683828)
-* [ ] Regulary visit the security center to review your security posture, investigate incidents and take action based on that information.
+* [ ] Regularly visit the Security Center to review your security posture, investigate incidents and take action based on that information.
 * [ ] Regularly monitor the activity and security logs provided in the Admin portal.
 
 ## Validation
