@@ -9,7 +9,7 @@ This repository details the recommended security controls for Google Workspace t
 
 The purpose of this guidance is to ensure that departments and agencies are implementing a baseline set of security controls for their Google Workspace environment.
 
-**Note: these guidelines are meant to be for unclassified data.**
+**Note: this security guidance is meant to be for unclassified data.**
 
 ## Initial Guardrails
 
