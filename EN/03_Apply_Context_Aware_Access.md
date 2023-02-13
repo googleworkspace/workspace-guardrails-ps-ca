@@ -1,4 +1,4 @@
-# Apply Context-Aware Access
+# Implement Context-Aware Access
 ([Return](/README.md) | [Français](/FR/03_Appliquer-des-politiques-d’accès-contextuelles.md))
 
 ## Objective
