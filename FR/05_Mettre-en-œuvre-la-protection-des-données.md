@@ -21,6 +21,7 @@ Protéger les informations et les actifs hébergés dans le cloud contre tout ac
 ## Considérations supplémentaires
 
 * [ ] Envisagez d'utiliser le [chiffrement côté client](https://support.google.com/a/answer/10741897?hl=fr) pour utiliser vos propres clés de chiffrement afin de chiffrer les données de votre organisation.
+* [ ] Envisagez de déployer [BeyondCorp Enterprise](https://https://support.google.com/a/answer/10104463?hl=fr) pour la protection contre les menaces et les données des utilisateurs de Chrome.
 * [ ] Envisager de mettre en œuvre la [sécurité avancée](https://support.google.com/a/topic/2683828?hl=fr&ref_topic=2683865) de gmail .
 * [ ] Envisager d'activer le [rapport d'informations sur les données](https://support.google.com/a/answer/10324934?hl=fr&ref_topic=9646660) pour recevoir des recommandations sur les règles de protection des données.
 * [ ] Envisager d'appliquer une [classification automatisée avec des règles PPD/DLP](https://support.google.com/a/answer/9843931?hl=fr&ref_topic=9646660).
