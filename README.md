@@ -68,7 +68,7 @@ Un résumé des mesures de sécurité d’informatique en nuage à mettre en œu
 | --- | --- |
 | 01 | [Gérer l’identité et l’accès](FR/01_Gérer-l’identité-et-l’accès.md) |
 | 02 | [Utiliser l’authentification à deux facteurs ](FR/02_Utiliser-2SV.md) |
-| 03 | [Appliquer des politiques d'accès contextuelles](FR/03_Appliquer-des-politiques-d’accès-contextuelles.md) |
+| 03 | [Mettre en œuvre des politiques d'accès contextuelles](FR/03_Mettre-en-œuvre-des-politiques-d’accès-contextuelles.md) |
 | 04 | [Activer la journalisation et la surveillance](FR/04_Activer-la-journalisation-et-la-surveillance.md) |
 | 05 | [Mettre en œuvre la protection des données](FR/05_Mettre-en-œuvre-la-protection-des-données.md) |
 | 06 | [Exécuter le renforcement des services](FR/06_Exécuter-le-renforcement-des-services.md) |
