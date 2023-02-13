@@ -19,7 +19,7 @@ A summary of the cloud guardrails to be implemented in the initial phase are pro
 | --- | --- |
 | 01 | [Manage identity and access](EN/01_Manage-Identity-Access.md) |
 | 02 | [Use 2-Step Verification](EN/02_Use_2Step_Verification.md) |
-| 03 | [Implement context-aware access policies](EN/03_Implement_Context_Aware_Access.md) |
+| 03 | [Implement context-aware access policies](EN/03_Apply_Context_Aware_Access.md) |
 | 04 | [Enable logging and monitoring](EN/04_Enable-Logging-and-Monitoring.md) |
 | 05 | [Implement data protection](EN/05_Implement_Data_Protection.md) |
 | 06 | [Perform service hardening](EN/06_Perform_Service_Hardening.md) |
