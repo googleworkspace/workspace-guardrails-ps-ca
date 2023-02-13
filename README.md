@@ -3,11 +3,11 @@ Recommended configuration guidance for Google Workspace / Conseils de configurat
 
 ([Français](#mesures-de-sécurité-dinformatique-en-nuage-du-gc-pour-google-workspace))
 
-This repository details the recommended guardrails for Google Workspace to be deployed within the Canadian Public Sector. The target audience of this documentation is departments and agencies looking to deploy Google Workspace as a productivity and collaboration solution.
+This repository details the recommended security controls for Google Workspace to be deployed within the Canadian Public Sector. The target audience of this documentation is departments and agencies looking to deploy Google Workspace as a productivity and collaboration solution. The security guidance is referenced as *guardrails* throughout this documentation. 
 
 ## Purpose
 
-The purpose of these guardrails is to ensure that departments and agencies are implementing a baseline set of security controls for their Google Workspace environment.
+The purpose of this guidance is to ensure that departments and agencies are implementing a baseline set of security controls for their Google Workspace environment.
 
 **Note: these guidelines are meant to be for unclassified data.**
 
