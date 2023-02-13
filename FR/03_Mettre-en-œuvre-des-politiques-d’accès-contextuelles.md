@@ -1,4 +1,4 @@
-# Appliquer l'accès contextuel
+# Mettre en œuvre l'accès contextuel
 ([Retourner](/README.md#mesures-de-sécurité-dinformatique-en-nuage-du-gc-pour-google-workspace) | [English](/EN/03_Implement_Context_Aware_Access.md))
 
 ## Objectif
