@@ -50,7 +50,7 @@ This is not an officially supported Google product.
 ______________________
 # Conseils de sécurité pour Google Workspace
 
-([English](#gc-cloud-guardrails-for-google-workspace))
+([English](#google-workspace-security-guidance))
 
 Ce projet détaille les mesures de sécurité recommandés pour que Google Workspace soit déployé au sein du Secteur Public du Canada. Les utilisateurs de cette documentation seront les ministères et les agences qui cherchent à déployer Google Workspace en tant que solution de productivité et de collaboration.
 
