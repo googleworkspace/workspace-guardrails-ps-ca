@@ -1,6 +1,6 @@
 # Contributing
 
-([Français](#comment-contribuer))
+([Return](/README.md)|[Français](#comment-contribuer))
 
 # How to Contribute
 
